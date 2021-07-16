@@ -37,6 +37,6 @@
     "source-map-support": "^0.5.9",
     "tap-spec": "^5.0.0",
     "tape": "^4.6.3",
-    "tape-run": "^2.1.4"
+    "tape-run": "^8.0.0"
   }
 }
